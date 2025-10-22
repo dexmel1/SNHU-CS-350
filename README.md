@@ -1,5 +1,5 @@
 # SNHU-CS-350
-Emerging Sys Arch &amp; Tech
+Emerging Sys Arch &amp; Tech (Below references the project in the thermostat folder)
 
 ## Summarize the project and what problem it was solving.
 I developed a smart thermostat prototype that measures temperature using an AHT20 sensor over I²C, controls status LEDs with PWM, manages a mode button and set-point buttons via GPIO interrupts, displays data on a 16×2 LCD, and streams telemetry through UART. The goal was to reduce risk in the low-level control and user interface, and to outline a pathway to a Wi-Fi–connected production device.
